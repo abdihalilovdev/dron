@@ -1,0 +1,713 @@
+@media (max-width: 769px) {
+
+    .container {
+        width: 90%;
+    }
+
+    .header-nav {
+        display: none;
+    }
+
+    .hero {
+        flex-wrap: wrap;
+    }
+
+    .hero-title button {
+        margin-bottom: 30px;
+    }
+
+    .dron img {
+        margin-left: 200px;
+        width: 640px;
+    }
+
+    .dron-title {
+        right: 30px;
+    }
+
+    .labels h1 {
+        font-size: 16px;
+    }
+
+    .kards {
+        flex-wrap: wrap;
+    }
+
+    .catalog {
+        flex-wrap: wrap;
+    }
+
+    .gadget {
+        flex-wrap: wrap;
+    }
+
+    .footer {
+        flex-wrap: wrap;
+    }
+
+    .footer-end {
+        margin: 20px 0;
+    }
+
+    .gadget p {
+        margin-left: 20px;
+    }
+}
+
+@media (max-width: 1440px) {
+    .container {
+        width: 90%;
+    }
+
+    .hero-dron img {
+        width: 655px;
+        height: 415px;
+    }
+
+    .dron img {
+        width: 630px;
+        height: 330px;
+        margin-left: 190px;
+    }
+
+    .dron-title {
+        left: 465px;
+    }
+
+    .dron-title h1 {
+        font-size: 12px;
+    }
+
+    .dron-title p {
+        font-size: 10px;
+        line-height: 12px;
+    }
+
+    .card-title-right {
+        margin-right: 50px;
+    }
+
+    .labels label {
+        font-size: 17px;
+    }
+
+    .catalog-left img {
+        width: 570px;
+        height: 425px;
+    }
+
+    .catalog-right img {
+        width: 570px;
+        height: 425px;
+    }
+
+    .catalog-title h1 {
+        font-size: 20px;
+        padding-top: 15px;
+    }
+
+
+    .footer-menu {
+        padding: 25px;
+    }
+
+    .footer {
+        display: flex;
+        flex-direction: column;
+    }
+
+    .gadget h1 {
+        font-weight: 850;
+        font-size: 40px;
+    }
+
+    .footer {
+        padding: 70px 0;
+    }
+
+}
+
+@media (max-width: 1200px) {
+    .container {
+        width: 90%;
+    }
+
+    .hero-dron img {
+        width: 655px;
+        height: 415px;
+    }
+
+    .hero-title h1 {
+        font-weight: 850;
+        font-size: 32px;
+        color: #2A2D46;
+    }
+
+    .dron img {
+        width: 630px;
+        height: 330px;
+        margin-left: 190px;
+    }
+
+    .dron-title {
+        left: 465px;
+    }
+
+    .dron-title h1 {
+        font-size: 12px;
+    }
+
+    .dron-title p {
+        font-size: 10px;
+        line-height: 12px;
+    }
+
+    .card-title-right {
+        margin-right: 50px;
+    }
+
+    .labels label {
+        font-size: 17px;
+    }
+
+    .catalog-left img {
+        width: 570px;
+        height: 425px;
+    }
+
+    .catalog-right img {
+        width: 570px;
+        height: 425px;
+    }
+
+    .catalog-title h1 {
+        font-size: 20px;
+        padding-top: 15px;
+    }
+
+
+    .footer-menu {
+        padding: 25px;
+    }
+
+    .footer {
+        display: flex;
+        flex-direction: column;
+    }
+
+    .gadget h1 {
+        font-weight: 850;
+        font-size: 40px;
+    }
+
+    .footer {
+        padding: 70px 0;
+    }
+
+}
+
+@media (max-width: 1024px) {
+    .container {
+        width: 90%;
+    }
+
+    .hero-dron img {
+        width: 480px;
+        height: 315px;
+    }
+
+    .hero-title h1 {
+        font-weight: 750;
+        font-size: 25px;
+        color: #2A2D46;
+    }
+
+    .hero-title p {
+        font-weight: 450;
+        font-size: 13px;
+        line-height: 19px;
+        color: #2A2D46;
+        padding: 30px 0;
+    }
+
+    .hero-title button {
+        width: 220px;
+        height: 41px;
+        background: #EB2D66;
+        box-shadow: 0 7px 35px rgba(235, 45, 102, 0.35);
+        font-weight: 800;
+        font-size: 11px;
+        color: #FFFFFF;
+    }
+
+    .card {
+        width: 190px;
+    }
+
+
+    .dron img {
+        width: 490px;
+        height: 280px;
+        margin-left: 100px;
+    }
+
+
+    .dron-title {
+        left: 325px;
+        top: 170px;
+    }
+
+    .dron-title h1 {
+        font-size: 15px;
+        color: #FFFFFF;
+        width: 130px;
+    }
+
+    .kards .card-title-right {
+        margin-right: 70px;
+    } {
+
+}
+
+    .dron-title p {
+        width: 200px;
+    }
+
+    .dron-title span {
+
+    }
+
+    .card-title-right {
+        margin-right: 50px;
+    }
+
+    .labels label {
+        font-size: 17px;
+    }
+
+    .catalog-left img {
+        width: 500px;
+        height: 400px;
+    }
+
+
+    .catalog-right img {
+        width: 500px;
+        height: 400px;
+    }
+
+    .catalog-title h1 {
+        font-size: 20px;
+        padding-top: 15px;
+    }
+
+    .footer-menu {
+        padding: 25px;
+    }
+
+    .footer {
+        display: flex;
+        flex-direction: column;
+    }
+
+
+    .figur1 {
+        clip-path: inset(5% 20% 27% 10%);
+        width: 30px;
+        height: 30px;
+        bottom: 290px;
+        left: 100px;
+    }
+
+    .figur2 {
+        width: 30px;
+        height: 30px;
+        bottom: 300px;
+        left: 400px;
+    }
+
+    .gadget h1 {
+        font-size: 30px;
+    }
+
+    .gadget p {
+        font-size: 13px;
+    }
+
+    .labels label {
+        font-size: 14px;
+    }
+
+    .card-price ion-icon {
+        margin-right: 20px;
+    }
+
+    .labels h1 {
+        font-size: 19px;
+    }
+
+
+    .catalog-title h1 {
+        font-size: 18px;
+    }
+
+    .catalog-title p {
+        font-size: 13px;
+    }
+
+
+}
+
+@media (max-width: 391px) {
+
+    .container {
+        width: 90%;
+    }
+
+    .header img {
+        width: 160px;
+    }
+
+    .hero-dron img {
+        width: 355px;
+        height: 230px;
+    }
+
+    .dron img {
+        width: 310px;
+        height: 180px;
+        margin-left: 180px;
+    }
+
+    .header-shop a {
+        font-size: 22px;
+    }
+
+    .header-shop select {
+        font-size: 10px;
+
+    }
+
+    .hero-title h1 {
+        font-weight: 850;
+        font-size: 32px;
+        color: #2A2D46;
+    }
+
+
+    .dron-title {
+        left: 195px;
+        top: 150px;
+
+    }
+
+
+    .dron-title h1 {
+        font-size: 9px;
+        margin-left: 40px;
+    }
+
+    .dron-title p {
+        font-size: 8px;
+        margin-left: 38px;
+        color: #FFFFFF;
+        padding: 4px 0;
+        line-height: 12px;
+    }
+
+    .figur1 {
+        width: 26px;
+        height:26px;
+        bottom: 270px;
+        left: 100px;
+    }
+
+    .figur2 {
+        width: 26px;
+        height: 26px;
+        bottom: 280px;
+        left: 300px;
+    }
+
+    .hero-title h1 {
+        font-size: 15px;
+        margin-left: 12px;
+    }
+
+    .hero-title p {
+        font-size: 10px;
+        padding: 15px 0;
+
+    }
+
+
+    .hero-title button {
+        width: 150px;
+        height: 34px;
+        font-weight: 600;
+        font-size: 10px;
+
+    }
+
+    .dron-title span {
+        font-size: 9px;
+        margin-left: 40px;
+    }
+
+    .card-title-right {
+        margin-right: 50px;
+    }
+
+    .labels label {
+        font-size: 9px;
+    }
+
+    .labels h1 {
+        font-size: 20px;
+        padding: 13px;
+    }
+
+    .labels {
+        flex-wrap: wrap;
+    }
+
+
+    .catalog-left img {
+        width: 400px;
+        height: 380px;
+    }
+
+    .catalog-right img {
+        width: 400px;
+        height: 380px;
+    }
+
+    .catalog-title h1 {
+        font-size: 14px;
+    }
+
+    .catalog-title p {
+        font-size: 11px;
+    }
+
+    .tavar h1 {
+        font-size: 19px;
+    }
+
+    .text h1 {
+        font-size: 16px;
+    }
+
+    .gadget h1 {
+        font-size: 25px;
+        padding: 12px 0;
+    }
+
+    .gadget p {
+        font-size: 12px;
+    }
+
+    .footer-start img {
+        width: 15px;
+    }
+
+    .footer-menu a {
+        font-size: 8px;
+        padding: 0 60px;
+        margin-left: -80px;
+    }
+
+    .footer-menu ion-icon {
+        margin-left: -33px;
+    }
+
+    .footer-end a {
+        font-size: 9px;
+    }
+
+    .footer-end button {
+        width: 70px;
+        height: 20px;
+        font-weight: 500;
+        font-size: 7px;
+
+    }
+
+}
+
+@media (max-width: 321px) {
+    .container {
+        width: 90%;
+    }
+
+    .header img {
+        width: 160px;
+    }
+
+    .hero-dron img {
+        width: 290px;
+        height: 340px;
+    }
+
+    .dron img {
+        width: 290px;
+        height: 166px;
+        margin-left: 170px;
+    }
+
+    .header-shop a {
+        font-size: 22px;
+    }
+
+    .header-shop select {
+        font-size: 10px;
+
+    }
+
+    .hero-title h1 {
+        font-weight: 850;
+        font-size: 32px;
+        color: #2A2D46;
+    }
+
+
+    .dron-title {
+        left: 10px;
+        top: 240px;
+
+    }
+
+
+    .dron-title h1 {
+        font-size: 9px;
+        margin-left: 40px;
+    }
+
+    .dron-title p {
+        font-size: 8px;
+        margin-left: 38px;
+        color: #FFFFFF;
+        padding: 4px 0;
+        line-height: 12px;
+    }
+
+    .hero-title h1 {
+        font-size: 15px;
+        margin-left: 12px;
+    }
+
+    .hero-title p {
+        font-size: 10px;
+        padding: 15px 0;
+
+    }
+
+
+    .hero-title button {
+        width: 150px;
+        height: 34px;
+        font-weight: 600;
+        font-size: 10px;
+
+    }
+
+    .dron-title span {
+        font-size: 9px;
+        margin-left: 40px;
+    }
+
+    .card-title-right {
+        margin-right: 50px;
+    }
+
+    .labels label {
+        font-size: 10px;
+    }
+    .labels span {
+        margin-left: 100px;
+        padding: 6px;
+    }
+
+    .labels h1 {
+        font-size: 15px;
+        padding: 13px;
+    }
+
+    .labels {
+        flex-wrap: wrap;
+    }
+
+
+    .catalog-left img {
+        width: 350px;
+        height: 360px;
+        margin-bottom: 50px;
+    }
+
+    .catalog-right img {
+        width: 350px;
+        height: 360px;
+        margin-bottom: 50px;
+    }
+    .figur1 {
+        width: 26px;
+        height:26px;
+        bottom: 280px;
+        left: 80px;
+    }
+
+    .figur2 {
+        width: 26px;
+        height: 26px;
+        bottom: 310px;
+        left: 270px;
+    }
+
+    .catalog-title h1 {
+        font-size: 14px;
+    }
+
+    .catalog-title p {
+        font-size: 11px;
+    }
+
+    .tavar h1 {
+        font-size: 11px;
+    }
+
+    .text h1 {
+        font-size: 16px;
+    }
+
+    .gadget h1 {
+        font-size: 22px;
+        padding: 12px 0;
+    }
+
+    .gadget p {
+        font-size: 11px;
+    }
+
+    .footer-start img {
+        width: 15px;
+    }
+
+    .footer-menu a {
+        font-size: 8px;
+        padding: 0 60px;
+        margin-left: -80px;
+    }
+
+    .footer-menu ion-icon {
+        margin-left: -33px;
+    }
+
+    .footer-end button {
+        width: 70px;
+        height: 20px;
+        font-weight: 500;
+        font-size: 7px;
+        margin-right: 20px;
+    }
+
+}
