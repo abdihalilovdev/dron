@@ -1,4 +1,4 @@
-@media (max-width: 769px) {
+@media (max-width: 768px) {
 
     .container {
         width: 90%;
@@ -12,17 +12,14 @@
         flex-wrap: wrap;
     }
 
+    .dron img {
+        width: 480px;
+        height: 267px;
+        margin-left: 170px;
+    }
+
     .hero-title button {
         margin-bottom: 30px;
-    }
-
-    .dron img {
-        margin-left: 200px;
-        width: 640px;
-    }
-
-    .dron-title {
-        right: 30px;
     }
 
     .labels h1 {
@@ -67,7 +64,7 @@
     .dron img {
         width: 630px;
         height: 330px;
-        margin-left: 190px;
+        margin-left: 80px;
     }
 
     .dron-title {
@@ -417,7 +414,7 @@
 
     .figur1 {
         width: 26px;
-        height:26px;
+        height: 26px;
         bottom: 270px;
         left: 100px;
     }
@@ -530,9 +527,19 @@
         height: 20px;
         font-weight: 500;
         font-size: 7px;
-
     }
 
+    .kards {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+
+    .product {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
 }
 
 @media (max-width: 321px) {
@@ -602,13 +609,17 @@
 
     }
 
-
     .hero-title button {
         width: 150px;
         height: 34px;
         font-weight: 600;
         font-size: 10px;
+    }
 
+    .kards {
+        display: flex;
+        align-items: center;
+        justify-content: center;
     }
 
     .dron-title span {
@@ -623,6 +634,7 @@
     .labels label {
         font-size: 10px;
     }
+
     .labels span {
         margin-left: 100px;
         padding: 6px;
@@ -649,9 +661,10 @@
         height: 360px;
         margin-bottom: 50px;
     }
+
     .figur1 {
         width: 26px;
-        height:26px;
+        height: 26px;
         bottom: 280px;
         left: 80px;
     }
@@ -672,7 +685,7 @@
     }
 
     .tavar h1 {
-        font-size: 11px;
+        font-size: 17px;
     }
 
     .text h1 {
@@ -702,6 +715,12 @@
         margin-left: -33px;
     }
 
+    .product {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+
     .footer-end button {
         width: 70px;
         height: 20px;
@@ -710,4 +729,9 @@
         margin-right: 20px;
     }
 
+    .card-title-right {
+        margin-left: 25px;
+    }
+
 }
+
